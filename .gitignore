@@ -1,0 +1,5 @@
+# Visual Studio Code project settings
+.vscode/
+
+# Jupyter Notebook Checkpoint settings
+.ipynb_checkpoints/
